@@ -47,7 +47,7 @@ All system data is stored locally in text files:
 3. Open a terminal or command prompt.
 4. Navigate to the project directory:
    ```bash
-   cd path/to/Assignment
+   cd path/to/apbank
    ```
 5. Run the application:
    ```bash
