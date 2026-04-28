@@ -1,0 +1,3 @@
+1001, 123, Lee Chee Cheng, 000428140813, M, 28-04-2000, cheecheng@gmail.com, 0123456789, Cameron Highlands, Savings, 1500.0
+1002, 123, Lee Chun Kit, 030920140813, M, 20-09-2003, chunkit@gmail.com, 0123456789, Ipoh, Current, 3000
+1003, default_password, Muhammad Abdullah, 030920140813, M, 20-09-2003, mohd@gmail.com, 0162094927, Johor Bahru, Savings, 2000
